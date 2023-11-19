@@ -78,3 +78,43 @@ autoScale on
 color 165,42,42
 maxHeightPixels 60
 
+track ASE-PGKrnaSeq_unique_VPR-B4_A_129P2-OlaHsd_sorted_fwd
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/VPR-B4_A_129P2-OlaHsd_sorted_fwd.bw
+shortLabel VPR-B4_A_129P2-OlaHsd_sorted_fwd - unique
+longLabel Unique mapping VPR-B4_A_129P2-OlaHsd_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+
+track ASE-PGKrnaSeq_unique_VPR-B4_A_PGK_sorted_fwd
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/VPR-B4_A_dox_PGK_sorted_fwd.bw
+shortLabel VPR-B4_A_PGK_sorted_fwd - unique
+longLabel Unique mapping VPR-B4_A_PGK_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+
+track ASE-PGKrnaSeq_unique_VPR-B4_A_PGK_sorted_rv
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/VPR-B4_A_dox_PGK_sorted_rv.bw
+shortLabel VPR-B4_A_PGK_sorted_rv - unique
+longLabel Unique mapping VPR-B4_A_PGK_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 100,149,237
+maxHeightPixels 60
+
+track ASE-PGKrnaSeq_unique_VPR-B4_A_129P2-OlaHsd_sorted_rv
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/VPR-B4_A_dox_129P2-OlaHsd_sorted_rv.bw
+shortLabel VPR-B4_A_129P2-OlaHsd_sorted_rv - unique
+longLabel Unique mapping VPR-B4_A_129P2-OlaHsd_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 100,149,237
+maxHeightPixels 60
+
