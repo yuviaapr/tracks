@@ -1,5 +1,5 @@
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_129P2-OlaHsd_sorted_fwd
-bigDataUrl https://oc.embl.de/index.php/s/14lyjNk8cbf4rVZ
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/LKF-A6plusdox_rep2_129P2-OlaHsd_sorted_fwd.bw
 shortLabel LKF-A6plusdox_rep2_129P2-OlaHsd_sorted_fwd - unique
 longLabel Unique mapping LKF-A6plusdox_rep2_129P2-OlaHsd_sorted_fwd
 type bigWig
@@ -8,18 +8,8 @@ autoScale on
 color 165,42,42
 maxHeightPixels 60
 
-track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_Gall_sorted_fwd
-bigDataUrl https://oc.embl.de/index.php/s/hCvVRftFbV59N7p
-shortLabel LKF-A6plusdox_rep2_Gall_sorted_fwd - unique
-longLabel Unique mapping LKF-A6plusdox_rep2_Gall_sorted_fwd
-type bigWig
-visibility full
-autoScale on
-color 165,42,42
-maxHeightPixels 60
-
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_PGK_sorted_fwd
-bigDataUrl https://oc.embl.de/index.php/s/ACrDRkQFThShZox
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/LKF-A6plusdox_rep2_PGK_sorted_fwd.bw
 shortLabel LKF-A6plusdox_rep2_PGK_sorted_fwd - unique
 longLabel Unique mapping LKF-A6plusdox_rep2_PGK_sorted_fwd
 type bigWig
@@ -29,7 +19,7 @@ color 165,42,42
 maxHeightPixels 60
 
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_129P2-OlaHsd_sorted_rv
-bigDataUrl https://oc.embl.de/index.php/s/bWnOzIsOoIpSTCS
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/LKF-A6plusdox_rep2_129P2-OlaHsd_sorted_rv.bw
 shortLabel LKF-A6plusdox_rep2_129P2-OlaHsd_sorted_rv - unique
 longLabel Unique mapping LKF-A6plusdox_rep2_129P2-OlaHsd_sorted_rv
 type bigWig
@@ -38,18 +28,8 @@ autoScale on
 color 100,149,237
 maxHeightPixels 60
 
-track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_Gall_sorted_rv
-bigDataUrl https://oc.embl.de/index.php/s/LLnW5ymhtjOgAxg
-shortLabel LKF-A6plusdox_rep2_Gall_sorted_rv - unique
-longLabel Unique mapping LKF-A6plusdox_rep2_Gall_sorted_rv
-type bigWig
-visibility full
-autoScale on
-color 100,149,237
-maxHeightPixels 60
-
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_PGK_sorted_rv
-bigDataUrl https://oc.embl.de/index.php/s/wpMLPy76lMDxRbq
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/LKF-A6plusdox_rep2_PGK_sorted_rv.bw
 shortLabel LKF-A6plusdox_rep2_PGK_sorted_rv - unique
 longLabel Unique mapping LKF-A6plusdox_rep2_PGK_sorted_rv
 type bigWig
@@ -59,7 +39,7 @@ color 100,149,237
 maxHeightPixels 60
 
 track ASE-PGKrnaSeq_unique_VPR-B4_A_dox_129P2-OlaHsd_sorted_rv
-bigDataUrl https://oc.embl.de/index.php/s/SLng8cnNZJ0e5cQ
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/VPR-B4_A_dox_129P2-OlaHsd_sorted_rv.bw
 shortLabel VPR-B4_A_dox_129P2-OlaHsd_sorted_rv - unique
 longLabel Unique mapping VPR-B4_A_dox_129P2-OlaHsd_sorted_rv
 type bigWig
@@ -68,18 +48,8 @@ autoScale on
 color 100,149,237
 maxHeightPixels 60
 
-track ASE-PGKrnaSeq_unique_VPR-B4_A_dox_Gall_sorted_rv
-bigDataUrl https://oc.embl.de/index.php/s/42eSOyMTBsElHLf
-shortLabel VPR-B4_A_dox_Gall_sorted_rv - unique
-longLabel Unique mapping VPR-B4_A_dox_Gall_sorted_rv
-type bigWig
-visibility full
-autoScale on
-color 100,149,237
-maxHeightPixels 60
-
 track ASE-PGKrnaSeq_unique_VPR-B4_A_dox_PGK_sorted_rv
-bigDataUrl https://oc.embl.de/index.php/s/VG5HAmPr9w8dahV
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/VPR-B4_A_dox_PGK_sorted_rv.bw
 shortLabel VPR-B4_A_dox_PGK_sorted_rv - unique
 longLabel Unique mapping VPR-B4_A_dox_PGK_sorted_rv
 type bigWig
@@ -89,7 +59,7 @@ color 100,149,237
 maxHeightPixels 60
 
 track ASE-PGKrnaSeq_unique_VPR-B4_A_dox_129P2-OlaHsd_sorted_fwd
-bigDataUrl https://oc.embl.de/index.php/s/lIdehLDi4xQo3RS
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/VPR-B4_A_dox_129P2-OlaHsd_sorted_fwd.bw
 shortLabel VPR-B4_A_dox_129P2-OlaHsd_sorted_fwd - unique
 longLabel Unique mapping VPR-B4_A_dox_129P2-OlaHsd_sorted_fwd
 type bigWig
@@ -98,18 +68,8 @@ autoScale on
 color 165,42,42
 maxHeightPixels 60
 
-track ASE-PGKrnaSeq_unique_VPR-B4_A_dox_Gall_sorted_fwd
-bigDataUrl https://oc.embl.de/index.php/s/dPJqrXwIS5KPUEf
-shortLabel VPR-B4_A_dox_Gall_sorted_fwd - unique
-longLabel Unique mapping VPR-B4_A_dox_Gall_sorted_fwd
-type bigWig
-visibility full
-autoScale on
-color 165,42,42
-maxHeightPixels 60
-
 track ASE-PGKrnaSeq_unique_VPR-B4_A_dox_PGK_sorted_fwd
-bigDataUrl https://oc.embl.de/index.php/s/wQmMzoEFWvcUZ6H
+bigDataUrl https://github.com/yuviaapr/tracks/raw/main/VPR-B4_A_dox_PGK_sorted_fwd.bw
 shortLabel VPR-B4_A_dox_PGK_sorted_fwd - unique
 longLabel Unique mapping VPR-B4_A_dox_PGK_sorted_fwd
 type bigWig
