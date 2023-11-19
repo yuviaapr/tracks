@@ -1,0 +1,2 @@
+genome mm10
+trackDb https://github.com/yuviaapr/tracks/raw/main/trackDb.txt
